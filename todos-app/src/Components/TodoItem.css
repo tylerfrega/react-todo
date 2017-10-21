@@ -17,3 +17,8 @@
     border-color: rgba(203, 20, 32, 0.4);
     background-color: transparent;
 }
+
+.removeTodo:hover{
+    background-color: rgba(203, 20, 32, 0.4);
+    color: white;
+}

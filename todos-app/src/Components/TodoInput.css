@@ -13,6 +13,11 @@
     background-color: transparent;
 }
 
+.btn-primary:hover{
+    background-color: rgba(73, 204, 249, 1.0);
+    color: white;
+}
+
 input{
     width: 80%;
     border: none;
